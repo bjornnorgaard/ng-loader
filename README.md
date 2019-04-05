@@ -1,2 +1,2 @@
-# ng-loader
-Global loader for Angular 7
+# Angular Loaders
+A couple of ways to make loaders for better UX in an Angular app.
